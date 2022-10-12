@@ -1,0 +1,1 @@
+head=new_node;

@@ -1,0 +1,7 @@
+Student No.1
+Student Roll No:1
+Student Name:asu
+Student Gender:M
+Student CGPA:9.000000
+Student Placed:G
+
